@@ -1,8 +1,9 @@
 ## BEM VINDO AO MEU PERFIL ##
 
-- Meu nome é samuel 
+meu nome é samuel
+- Gosto muito da área da programação
 - Estou estudando no alura 
-- Gostei muito das novas plataformas tecnologicas
+- Entusiasta da tecnologia 
 - Uso o Githuh para compatilha os meus projetos
 
 - ## PARA ENTRAR EM CONTATO ##
