@@ -1,6 +1,6 @@
 ## BEM VINDO AO MEU PERFIL ##
 
-meu nome é samuel
+Meu nome é samuel
 - Gosto muito da área da programação
 - Estou estudando no alura 
 - Entusiasta da tecnologia 
